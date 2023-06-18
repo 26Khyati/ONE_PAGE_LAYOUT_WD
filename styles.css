@@ -1,0 +1,44 @@
+.outer-box{
+display:flex;
+flex-direction: row;
+margin:20px;
+padding:10px;
+
+
+}
+body >div{
+    padding:10%;
+    padding:0px;
+    margin:140px;
+}
+.inner-box{
+    float:left;
+    width:24%;
+    padding:10px;
+    
+    
+}
+.inner-box p{
+    text-align:center;
+    
+}
+.inner-box h3{
+    text-align:center;
+    
+} 
+.inner-box img{
+    width:100%;
+    
+}
+.chef h3{
+    text-align:center;
+}
+.chef p{
+    text-align:center;
+}
+.chef img{
+   padding-left:200px;
+}
+.chef h2{
+    text-align:center;
+}
