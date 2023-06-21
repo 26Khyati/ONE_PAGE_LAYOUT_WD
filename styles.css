@@ -6,6 +6,46 @@ padding:10px;
 
 
 }
+a{
+    text-decoration: none;
+    color:black;
+}
+li{
+    display:inline;
+    font-size: large;
+    padding-left:100px;
+    padding-right:100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size:22px;
+    font-family:"", sans-serif;
+}
+ul > li{
+    margin-right:50px;
+    margin-left: 0px;
+    
+}
+.cen{
+    margin-left:210px;
+}
+.right{
+    margin-left:220px;
+    margin-right:0px;
+}
+ul{
+    position:fixed;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    top:0px;
+    left:0px;
+    width:1450px;
+    background-color: white;
+    margin:0px;
+    padding-right:20px;
+    text-align: center;
+    
+    
+}
 body >div{
     padding:10%;
     padding:0px;
